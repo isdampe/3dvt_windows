@@ -1,0 +1,17 @@
+{
+  "main": "index.html",
+  "node-main": "app.js",
+  "name": "3D Virtual Tours",
+  "version": "0.1.0",
+  "window": {
+    "title": "3D Virtual Tours",
+    "toolbar": false,
+    "frame": true,
+    "width": 1280,
+    "height": 720,
+    "position": "mouse"
+  },
+  "webkit": {
+    "plugin": true
+  }
+}
